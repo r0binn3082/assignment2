@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="playing_chess">playing chess</string>
+</resources>
